@@ -1,3 +1,6 @@
+//Problem statement
+//Write a Java program to perform array and string operations such as reverse, sort, search, average, and 
+//finding the maximum element using classes and objects.
 import java.util.Scanner;
 
 // Class to perform different array operations
