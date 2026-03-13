@@ -1,3 +1,6 @@
+//Problem Statement:
+//Develop a Java program that implements a Matrix class with constructors and 
+//performs matrix transpose and matrix multiplication operations.
 import java.util.Scanner;
 
 // Matrix class containing matrix operations
