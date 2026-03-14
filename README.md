@@ -9,7 +9,7 @@
 
 ## Assignment Structure
 
-### Assignment 1 – Core Java Programs
+### Assignment 1 
 1. Array and String Operations using Classes and Objects  
 2. Matrix Class with Constructors, Transpose and Multiplication  
 3. Wrapper Classes and String vs StringBuffer  
@@ -21,7 +21,7 @@
 
 ---
 
-### Assignment 2 – Advanced Java
+### Assignment 2 
 1. Prime Number Finder using Multithreading  
 2. Producer–Consumer Problem using Synchronization  
 3. CRUD Operations using Collection API  
